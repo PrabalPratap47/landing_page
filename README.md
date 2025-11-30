@@ -6,7 +6,7 @@ It features clean gradients, glass-effect navigation, animated hover underline, 
 ---
 
 ## 🔗 Live Links
-- **Live Demo (Vercel):** _Add your live deployment link here_
+- **Live Demo (Vercel):** landing-page-henna-alpha-14.vercel.app
 - **GitHub Repository:** (https://github.com/PrabalPratap47/landing_page)
 
 ---
