@@ -7,7 +7,7 @@ It features clean gradients, glass-effect navigation, animated hover underline, 
 
 ## 🔗 Live Links
 - **Live Demo (Vercel):** _Add your live deployment link here_
-- **GitHub Repository:** _Add your GitHub repo link here_
+- **GitHub Repository:** (https://github.com/PrabalPratap47/landing_page)
 
 ---
 
